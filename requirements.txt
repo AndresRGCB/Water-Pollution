@@ -1,0 +1,11 @@
+
+pandas
+numpy
+matplotlib
+seaborn
+requests
+scipy
+folium
+pyxlsb
+imageio
+scikit-learn
